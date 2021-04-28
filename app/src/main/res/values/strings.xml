@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CosmeticsZone</string>
+    <string name="logo">logo</string>
+    <string name="rating">Rating:</string>
+    <string name="_0">0 $</string>
+    <string name="_0_0">0.0</string>
+    <string name="products">Products</string>
+    <string name="beloved_products">Beloved products</string>
+    <string name="brak_ulubionych_produkt_w">Brak ulubionych produktów</string>
+    <string name="product_types">Product Types</string>
+    <string name="deleteBeloved">𝗫</string>
+    <string name="go_to_the_store">Go to the store</string>
+    <string name="sort">Sort:</string>
+    <string name="product_list">Product List</string>
+</resources>
